@@ -33,3 +33,5 @@ def main(model: str, english: bool, verbose: bool, energy:  int, pause: float, d
 
 if __name__ == "__main__":
     main()
+    
+# feknfwenfre
